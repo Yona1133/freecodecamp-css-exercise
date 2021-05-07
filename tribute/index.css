@@ -1,0 +1,37 @@
+#title {
+  font-family: "Vollkorn", serif;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+}
+
+#subtitle {
+  font-family: "Vollkorn", serif;
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+}
+
+#timeline {
+  font-family: "Vollkorn", serif;
+  font-size: 2em;
+}
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 600%;
+  margin-left: center;
+  margin-right: center;
+  display: block;
+}
+
+#img-caption {
+  font-family: "Vollkorn", serif;
+  display: flex;
+  justify-content: center;
+}
+
+#tribute-info {
+  font-family: "Vollkorn", serif;
+  font-size: 1em;
+}
